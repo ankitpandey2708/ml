@@ -11,8 +11,10 @@ CF can be divided into
 * Neighbourhood/Memory-Based Collaborative Filtering 
 	1.User based -->Users who are similar to you also liked
 	Similarity values are measured by observing all the items rated by users.
+	
 	2.Item based -->Users who liked this item also liked
 	Similarity values are measured by observing all the users who have rated items.
 
 User based -->create a user-item matrix
+
 Item Based -->create a item-user matrix
