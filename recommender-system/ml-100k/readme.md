@@ -1,0 +1,1 @@
+100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
