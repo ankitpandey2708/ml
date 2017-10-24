@@ -9,6 +9,7 @@ Content based recommender systems use the features of items to recommend other s
 CF can be divided into 
 * Model-Based Collaborative filtering -->performed by different machine learning algorithms
 * Neighbourhood/Memory-Based Collaborative Filtering 
+
 	1.User based -->Users who are similar to you also liked
 	Similarity values are measured by observing all the items rated by users.
 	
